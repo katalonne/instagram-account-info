@@ -40,7 +40,7 @@ getInfo('katalonne').then(info => {
 | posts        | Number  |
 | isPrivate    | Boolean |
 | isVerified   | Boolean |
-| profileImage | Boolean |
+| profileImage | String  |
 
 ## License
 
