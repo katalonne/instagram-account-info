@@ -1,10 +1,10 @@
 {
   "name": "instagram-account-info",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "instagram-account-info.",
   "private": false,
-  "main": "dist/instagram-account-info.node.js",
-  "browser": "dist/instagram-account-info.js",
+  "main": "dist/instagramAccountInfo.node.js",
+  "browser": "dist/instagramAccountInfo.js",
   "files": [
     "dist",
     "src/sass"
